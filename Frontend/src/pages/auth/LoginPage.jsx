@@ -22,7 +22,7 @@ const LoginPage = () => {
               </div>
               <div className="relative flex justify-center text-sm">
                 <span className="px-2 bg-white text-gray-500">
-                  New to LinkedIn?
+                  New to DevConnect?
                 </span>
               </div>
             </div>
